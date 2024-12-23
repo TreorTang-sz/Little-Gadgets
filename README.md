@@ -13,7 +13,7 @@ The repository includes the following types of projects:
 ## Technologies Used
 
 - Programming Languages: Python, Swift, JavaScript, C++
-- Frameworks & Libraries: (Add any specific frameworks or libraries you've used)
+- Frameworks & Libraries: Not yet -_-
 
 ## How to Use
 
